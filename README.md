@@ -6,7 +6,7 @@ Travel the land to find dragon foes and allies.
 ## Designer and creator 
 Francesca Tenney <br/>
 
-##Language 
+## Language 
 + C++ 
 
 ## Hightlights 
