@@ -10,5 +10,5 @@ Francesca Tenney <br/>
 + C++ 
 
 ## Hightlights 
-+ used multiple classes to implement this game. 
++ Used multiple classes to implement this game. 
 + Created a map so the user could easily move around the land. 
